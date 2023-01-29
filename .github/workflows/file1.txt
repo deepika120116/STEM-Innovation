@@ -1,0 +1,2 @@
+here is the git example
+i'm appending the text to file1

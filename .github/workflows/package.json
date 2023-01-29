@@ -1,0 +1,26 @@
+{
+  "name": "saaral_website",
+  "version": "1.0.0",
+  "description": "",
+    "main": "unrelated.js",
+    "targets": 
+     { "main": false},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deepika120116/Saaral_website.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/deepika120116/Saaral_website/issues"
+  },
+  "homepage": "https://github.com/deepika120116/Saaral_website#readme",
+  "devDependencies": {
+    "parcel": "^2.8.3",
+    "parcel-bundler": "^1.12.5"
+  }
+}
